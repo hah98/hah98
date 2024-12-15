@@ -39,11 +39,6 @@ Welcome to my GitHub! I`m a front-end developer (student) at Noroff with a passi
 
 ---
 
-## 📈 GitHub Stats
-
-![Hibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
 
 ### 📸 Check out my work:
 You can explore some of my projects below:
