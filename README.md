@@ -4,27 +4,6 @@ Welcome to my GitHub! I`m a front-end developer (student) at Noroff with a passi
 
 ---
 
-## 🔭 Currently working on:
-- School projects 📚 (React , HTML, CSS, JavaScript etc.)
-- Learning more about React & Python (beginner) 💻
-
-## 🌱 I'm currently learning:
-- JavaScript, React, Python
-
-## 👯 Looking to collaborate on:
-- Front-end projects (HTML, CSS, JavaScript, React)
-- Open-source contributions
-
-## 💬 Ask me about:
-- Naming everything from pets to random objects (Im great at naming things) oh and also frontend related subjects of course. 
-
-## 📫 How to reach me:
-- Discord: `hah98`
-
-## ⚡ Fun fact:
-- Cats spend 70% of their lives asleep 🐈 — if only we could all be so lucky!
-
----
 
 ## 🛠️ Technologies & Tools:
 
@@ -36,6 +15,27 @@ Welcome to my GitHub! I`m a front-end developer (student) at Noroff with a passi
 
 - **Tools**:
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
+
+---
+
+
+
+## 🔭 Currently working on:
+- School projects 📚 (React , HTML, CSS, JavaScript etc.)
+- Learning more about React & Python (beginner) 💻
+
+## 🌱 I'm currently learning:
+- JavaScript, React, Python
+
+## 👯 Looking to collaborate on:
+- Front-end projects (HTML, CSS, JavaScript, React)
+- Open-source contributions
+
+## 📫 How to reach me:
+- Discord: `hah98`
+
+## ⚡ Fun fact:
+- Cats spend 70% of their lives asleep 🐈 — if only we could all be so lucky!
 
 ---
 
