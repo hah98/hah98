@@ -1,6 +1,6 @@
 # Hi there 👋💚 I'm Hibo!
 
-Welcome to my GitHub! I`m a front-end developer (student) at Noroff with a passion for creating functional and visually engaging digital experiences. I have experience with modern web technologies like JavaScript, HTML, CSS, React, and tools such as Git, Figma, and Adobe XD. Beyond coding, I enjoy reading, graphic design, and following Formula 1. I’m a disciplined and organized individual with a solution-oriented mindset and a strong work ethic. 
+Welcome to my GitHub! I`m a front-end developer (student) at Noroff with a passion for creating functional and visually engaging digital experiences. I have experience with modern web technologies like JavaScript, HTML, CSS, React, and tools such as Git, Figma, and Adobe XD.
 
 ---
 
